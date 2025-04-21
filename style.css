@@ -46,7 +46,7 @@ hr{
     & #SearchBtn{
         border: none;
         font-size: 18px;
-        color: #fff;
+        color: white;
         font-family: Georgia, 'Times New Roman', Times, serif;
         padding: 12px;
         border-radius: 25px;
@@ -56,7 +56,7 @@ hr{
     & #locationBtn{
         border: none;
         font-size: 18px;
-        color: #fff;
+        color: white;
         font-family: Georgia, 'Times New Roman', Times, serif;
         padding: 12px;
         border-radius: 25px;
