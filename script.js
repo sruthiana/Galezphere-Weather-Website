@@ -244,4 +244,4 @@ function getUserCoordinates(){
 locationBtn.addEventListener('click', getUserCoordinates);
 searchBtn.addEventListener('click', getCityCoordinates);
 cityInput.addEventListener('keyup', e=> e.key === 'Enter'  && getCityCoordinates());
-// window.addEventListener('load', getUserCoordinates);
+window.addEventListener('load', getUserCoordinates);
