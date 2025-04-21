@@ -49,7 +49,7 @@ hr{
         font-family: Georgia, 'Times New Roman', Times, serif;
         padding: 12px;
         border-radius: 25px;
-        background-color: #fff;
+        background-color: ##332640;
         cursor: pointer;
     }
     & #locationBtn{
@@ -58,7 +58,7 @@ hr{
         font-family: Georgia, 'Times New Roman', Times, serif;
         padding: 12px;
         border-radius: 25px;
-        background-color: #fff;
+        background-color: ##332640;
         cursor: pointer;
     }
 }
